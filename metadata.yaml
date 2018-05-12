@@ -1,0 +1,42 @@
+_repo: Curialia-Miscellanea-or-Anecdotes-of-Old-Times--Regal-Noble-Gentilitial-and-MiscellaneousIncl__44335
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44335-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Pegge, Samuel
+    alias: Pegge, S. (Samuel)
+    birthdate: 1704
+    deathdate: 1796
+    gutenberg_agent_id: '2642'
+    url: http://www.gutenberg.org/2009/agents/2642
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Pegge
+  editor:
+    agent_name: Nichols, John
+    aliases:
+    - Urban, Sylvanus
+    - Nichols, J. (John)
+    birthdate: 1745
+    deathdate: 1826
+    gutenberg_agent_id: '45214'
+    url: http://www.gutenberg.org/2009/agents/45214
+description: ''
+gutenberg_issued: '2013-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44335'
+  lccn: '11002645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Anecdotes -- Great Britain'
+- !lcsh 'Great Britain -- Court and courtiers -- Early works to 1800'
+- !lcsh 'Pegge, Samuel, 1704-1796'
+title: "Curialia Miscellanea, or Anecdotes of Old Times\r\nRegal, Noble, Gentilitial,\
+  \ and Miscellaneous: Including Authentic Anecdotes of the Royal Household, and the\
+  \ Manners and Customs of the Court, at an Early Period of the English History"
+url: http://www.gutenberg.org/ebooks/44335
