@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '45214'
     url: http://www.gutenberg.org/2009/agents/45214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44335#Curialia-Miscellanea-or-Anecdotes-of-Old-Times--Regal-Noble-Gentilitial-and-MiscellaneousIncl_
 gutenberg_issued: '2013-12-01'
 gutenberg_type: Text
 identifiers:
@@ -36,6 +38,7 @@ subjects:
 - !lcsh 'Anecdotes -- Great Britain'
 - !lcsh 'Great Britain -- Court and courtiers -- Early works to 1800'
 - !lcsh 'Pegge, Samuel, 1704-1796'
+- GITenberg
 title: "Curialia Miscellanea, or Anecdotes of Old Times\r\nRegal, Noble, Gentilitial,\
   \ and Miscellaneous: Including Authentic Anecdotes of the Royal Household, and the\
   \ Manners and Customs of the Court, at an Early Period of the English History"
